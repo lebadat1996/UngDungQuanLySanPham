@@ -1,0 +1,20 @@
+* {
+    text-align: center;
+}
+div{
+   margin-left: 530px;
+    margin-top: 30px;
+
+}
+h1{
+    color: blue;
+}
+button{
+    background-color: red;
+    color: yellow;
+}
+div{
+    background-color: olivedrab;
+    width: 250px;
+    height: 400px;
+}
